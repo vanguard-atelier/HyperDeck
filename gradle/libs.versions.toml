@@ -10,7 +10,7 @@ okhttp = "4.12.0"
 kotlinxSerialization = "1.6.3"
 kotlinxCoroutines = "1.8.1"
 coil = "2.6.0"
-miuix = "0.3.3"
+miuix = "0.9.4"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
