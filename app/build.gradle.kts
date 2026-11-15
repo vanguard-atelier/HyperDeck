@@ -79,8 +79,5 @@ dependencies {
     implementation(libs.kotlinx.coroutines.android)
     implementation(libs.coil.compose)
 
-    // HyperOS Miuix Compose
-    implementation(libs.miuix.ui)
-
     debugImplementation(libs.androidx.ui.tooling)
 }
